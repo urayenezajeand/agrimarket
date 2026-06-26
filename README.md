@@ -24,16 +24,19 @@
 *(Note: Images are stored in the `images/` directory)*
 
 ### Homepage Welcome
-![Homepage](images/welcome_banner1.jpg)
+![Homepage](images/welcome_banner1.png)
 
 ### Product Listing (Minimum 5 Products)
-![Products](images/featured_product.jpg)
+![Products](images/featured_product.png)
 
 ### Single Product & Add to Cart
-![Product Page](images/product.jpg)
+![Product Page](images/product.png)
 
 ### Cart Interaction
 ![Cart](images/cart.png)
+
+### checkout
+![Cart](images/checkout.png)
 
 ### Contact Page
 ![Contact](images/contact.png)
